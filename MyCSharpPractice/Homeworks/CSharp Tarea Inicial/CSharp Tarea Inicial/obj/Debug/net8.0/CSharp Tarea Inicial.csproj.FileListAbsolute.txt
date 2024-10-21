@@ -1,0 +1,15 @@
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\bin\Debug\net8.0\CSharp Tarea Inicial.exe
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\bin\Debug\net8.0\CSharp Tarea Inicial.deps.json
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\bin\Debug\net8.0\CSharp Tarea Inicial.runtimeconfig.json
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\bin\Debug\net8.0\CSharp Tarea Inicial.dll
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\bin\Debug\net8.0\CSharp Tarea Inicial.pdb
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\obj\Debug\net8.0\CSharp Tarea Inicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\obj\Debug\net8.0\CSharp Tarea Inicial.AssemblyInfoInputs.cache
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\obj\Debug\net8.0\CSharp Tarea Inicial.AssemblyInfo.cs
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\obj\Debug\net8.0\CSharp Tarea Inicial.csproj.CoreCompileInputs.cache
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\obj\Debug\net8.0\CSharp Tarea Inicial.sourcelink.json
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\obj\Debug\net8.0\CSharp Tarea Inicial.dll
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\obj\Debug\net8.0\refint\CSharp Tarea Inicial.dll
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\obj\Debug\net8.0\CSharp Tarea Inicial.pdb
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\obj\Debug\net8.0\CSharp Tarea Inicial.genruntimeconfig.cache
+C:\Users\imano\Documents\GitHub\MyCSharpPractice\CSharp Tarea Inicial\CSharp Tarea Inicial\obj\Debug\net8.0\ref\CSharp Tarea Inicial.dll
